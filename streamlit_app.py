@@ -100,4 +100,4 @@ if submitted:
         st.warning("Please enter your feedback before submitting.")
 
 st.markdown("---")
-st.markdown("<p class='footer-text'>Adani Pulse — Anonymity by architecture, not by policy. No data is collected that could identify you.<br><a href='https://employee-voice-app-7474660728323941.aws.databricksapps.com' target='_blank'>Issue Tracking View (internal login required)</a></p>", unsafe_allow_html=True)
+st.markdown("<p class='footer-text'>Adani Pulse — Anonymity by architecture, not by policy. No data is collected that could identify you.<br><a href='https://employee-voice-app-7474660728323941.aws.databricksapps.com' target='_blank'>Issue Tracking View</a></p>", unsafe_allow_html=True)
