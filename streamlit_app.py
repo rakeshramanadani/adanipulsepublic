@@ -101,4 +101,3 @@ if submitted:
 
 st.markdown("---")
 st.markdown("<p class='footer-text'>Adani Pulse — Anonymity by architecture, not by policy. No data is collected that could identify you.<br><a href='https://employee-voice-app-7474660728323941.aws.databricksapps.com' target='_blank'>Issue Tracking View (internal login required)</a></p>", unsafe_allow_html=True)
-%python
